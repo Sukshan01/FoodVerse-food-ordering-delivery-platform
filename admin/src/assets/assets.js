@@ -14,4 +14,4 @@ export const assets ={
     food_del_admin_logo
 }
 
-export const url = 'https://foodverse-backend-uksr.onrender.com/'
+export const url = 'https://foodverse-backend-uksr.onrender.com'
